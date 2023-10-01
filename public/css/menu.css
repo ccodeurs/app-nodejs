@@ -1,0 +1,14 @@
+.menu{
+    list-style: none;
+    display: flex;
+    padding:3px;
+    background-color: #2a2626;
+    margin: 0px;
+}
+
+.menu li a{
+text-decoration: none;
+margin: 4px;
+color: white;
+font-size: 20px;
+}
